@@ -50,4 +50,5 @@ a basic understanding of how data is used to minimize the risk of losing money w
 
 ## Contact
 Created by @https://github.com/purushothamareddyj - feel free to contact me!
+
 Email Id = purureddy27@gmail.com
