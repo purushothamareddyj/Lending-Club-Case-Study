@@ -43,9 +43,13 @@ a basic understanding of how data is used to minimize the risk of losing money w
 
 ## Conclusions
 Higher Debt-to-Income ratios are strong indicators of potential default.
+
 Lower credit scores correlate with increased default risk.
+
 Larger loan amounts require careful consideration and assessment.
+
 Employment length and loan purpose significantly influence default probability.
+
 Interest rates need to be balanced to avoid increasing default rates while managing financial risk.
 
 ## Contact
