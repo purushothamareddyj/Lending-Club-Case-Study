@@ -3,38 +3,38 @@
 
 
 ## Table of Contents
-* General Info
+General Info
   
-*Business Understanding
+Business Understanding
 
-*Business Objectives
+Business Objectives
 
-*Loan Decision Scenarios
+Loan Decision Scenarios
 
-*Technologies Used
+Technologies Used
 
-*Conclusions
+Conclusions
 
-*Contact
+Contact
 
 ## General Information
-- This project involves analyzing data from Lending Club, a consumer finance company specializing in lending various types of loans to customers.
+-->This project involves analyzing data from Lending Club, a consumer finance company specializing in lending various types of loans to customers.
   
--The main business problem is to minimize the risk of financial loss by identifying risky loan applicants who are likely to default.
+-->The main business problem is to minimize the risk of financial loss by identifying risky loan applicants who are likely to default.
 
--The dataset includes information about past loan applicants and whether they defaulted or not.
+-->The dataset includes information about past loan applicants and whether they defaulted or not.
 
 ## Business Understanding
 The Lending Club case study involves understanding the risk analytics in banking and financial services. By analyzing the provided loan data, we aim to develop a basic understanding of how data is used to minimize the risk of losing money while lending to customers.
 
 ## Business Objectives
--The company, being the largest online loan marketplace, wants to:
+-->The company, being the largest online loan marketplace, wants to:
 
--Identify risky loan applicants to reduce credit loss.
+-->Identify risky loan applicants to reduce credit loss.
 
--Understand the driving factors behind loan default.
+-->Understand the driving factors behind loan default.
 
--Utilize the insights for portfolio and risk assessment.
+-->Utilize the insights for portfolio and risk assessment.
 
 ## Loan Decision Scenarios
 1.Loan Accepted: This can further result in:
@@ -48,15 +48,15 @@ The Lending Club case study involves understanding the risk analytics in banking
 2.Loan Rejected: No transactional history is available for these applicants.
 
 ## Technologies Used
--Python - version 3.10.12
+-->Python - version 3.10.12
 
--Pandas - version 2.2.2
+-->Pandas - version 2.2.2
 
--Matplotlib - version 3.8.0
+-->Matplotlib - version 3.8.0
 
--Seaborn - version 0.13.2
+-->Seaborn - version 0.13.2
 
--NumPy - version 0.13.2
+-->NumPy - version 0.13.2
 
 ## Conclusions
 Higher Debt-to-Income ratios are strong indicators of potential default.
